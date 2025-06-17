@@ -15,10 +15,13 @@ const Hireme = () => {
             Do you want any work from me?
           </h2>
           <p className="lg:text-left text-justify max-w-lg text-sm mt-4 text-gray-200 leading-6">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis dicta
-            soluta quos tempore eos accusamus cupiditate, amet in similique
-            sapiente obcaecati odio deleniti architecto corporis ratione.
-            Consequatur a quidem maiores!
+            Full-Stack Developer with scalable application expertise Currently
+            working at Pando India Software Consult Experienced in developing
+            high-performance, scalable applications from start to finish
+            Hands-on with technologies like React, Node.js, MySQL, and many more
+            Passionate about solving problems, writing clean code, and
+            delivering impactful software solutions Eager to contribute my
+            skills to challenging projects and help businesses grow
           </p>
           <button className="btn-primary mt-10">Say Hello</button>
         </div>

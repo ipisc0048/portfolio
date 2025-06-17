@@ -13,41 +13,37 @@ import "swiper/css/pagination";
 const Project = () => {
   const projects = [
     {
-      img: projectTwo,
-      name: "Netflix Clone",
-      github_link: "https://github.com/aryyan0701/Netflix_Clone",
-      //live_link: "https://myjobsearch.netlify.app",
+      // img: "https://studentscorners.com/assets/logo-BgQwwH2_.png",
+      name: "Admin panel",
+      // github_link: "https://github.com/aryyan0701/Netflix_Clone",
+      live_link: "https://admin.studentscorners.com",
     },
     {
-      img: projectOne,
-      name: "Type Verse (Check your typing speed)",
-      github_link: "https://github.com/aryyan0701/type_verse",
-      live_link: "https://aryyan0701.github.io/type_verse/",
+      // img: projectOne,
+      name: "Landing Page",
+      // github_link: "https://github.com/aryyan0701/type_verse",
+      live_link: "https://abyd.in/",
     },
        {
-      img: projectThree,
-      name: "Currency converter",
-      github_link: "https://github.com/aryyan0701/Currency_converter",
-     // live_link: "https://highking01.netlify.app",
+      // img: projectThree,
+      name: "studentscorners",
+      // github_link: "https://github.com/aryyan0701/Currency_converter",
+      live_link: "https://studentscorners.com/",
     },
     {
-      img: projectFour,
-      name: "Quizzify",
-      github_link:
-        "https://github.com/aryyan0701/Quizzify",
-      live_link: "https://quizzad.netlify.app/",
+      // img: projectFour,
+      name: "EasyDocouments",
+      // github_link:
+      //   "https://github.com/aryyan0701/Quizzify",
+      live_link: "https://easydocoments.com/",
     },
+    
+   
     {
-      img: projectSix,
-      name: "Bloggify",
-      github_link: "https://github.com/aryyan0701/Bloggify",
-      live_link: "https://aryyan0701.github.io/Bloggify/",
-    },
-    {
-      img: projectSeven,
-      name: "Sandbox Clone",
-      github_link: "https://github.com/aryyan0701/sandbox_clone",
-     live_link: "https://aryyan0701.github.io/sandbox_clone/",
+      // img: projectSeven,
+      name: "Yours Article",
+      // github_link: "https://github.com/aryyan0701/sandbox_clone",
+     live_link: "https://yoursarticle.com/",
     },
   ];
   return (
